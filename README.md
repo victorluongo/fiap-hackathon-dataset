@@ -1,2 +1,2 @@
-# Fiap Hackathon - Dataset
-Anotação e treinamento do dataset para identificação de objetos cortantes
+# FIAP Hackathon - Dataset
+Este projeto realiza o treinamento e fine-tuning de um modelo YOLOv8 para detectar objetos cortantes a partir de frames extraídos de vídeos. O modelo final é exportado no formato `.tflite` float32 para uso em um aplicativo android desenvolvido em Kotlin.
